@@ -1,0 +1,14 @@
+# sys_mssi_t_64_cn_armv82-user 15 AP3A.240905.015.A2 1739896298 release-keys
+- manufacturer: alps
+- platform: common
+- codename: mgvi_t_64_armv82
+- flavor: sys_mssi_t_64_cn_armv82-user
+- release: 15
+- id: AP3A.240905.015.A2
+- incremental: 1739896298
+- tags: release-keys
+- fingerprint: alps/hal_mgvi_t_64_armv82/mgvi_t_64_armv82:15/AP3A.240905.015.A2/1739896298:user/release-keys
+- is_ab: true
+- brand: alps
+- branch: sys_mssi_t_64_cn_armv82-user-15-AP3A.240905.015.A2-1739896298-release-keys
+- repo: alps_mgvi_t_64_armv82_dump
